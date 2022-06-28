@@ -4,6 +4,7 @@ connections>add>Microsoft excel> choose files_for_lab/we_fn_use_c_marketing_cust
 2. Create a barplot of the number of customers per Gender.
 3. Create a barplot of the number of customers per EmploymentStatus and Gender.
 2.-3. in Tableau
+https://public.tableau.com/views/LabGettingstartedwithTableau_16563693443030/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 4. Identify Measurements and Dimensions. Are they the same as the ones in your Pandas dataframe? Modify accordingly.
 4. identification in tableau. No there are not the same with the ones in Dataframe
